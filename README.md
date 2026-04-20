@@ -18,5 +18,7 @@ Architecture: Microservices, REST APIs
 📫 How to reach me?
 
 📧 Email: khaliloessouri10@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/khalil-essouri-56b950283/
+
 💻 GitHub: https://github.com/KHLIL2002
