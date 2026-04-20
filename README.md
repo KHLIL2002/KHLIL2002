@@ -9,11 +9,18 @@ I'm currently working on full-stack web applications using Angular and Spring Bo
 
 🛠️ Tools & Technologies
 Languages: Java, JavaScript, TypeScript
+
 Frontend: Angular, HTML, CSS, Bootstrap
+
 Backend: Spring Boot, Symfony
+
 Databases: MySQL, PostgreSQL
+
 DevOps & Tools: Docker, Git, Maven, Linux, Postman, Swagger
+
 Architecture: Microservices, REST APIs
+
+
 
 📫 How to reach me?
 
