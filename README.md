@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Khalil Essouri
+🚀 Who am I?
 
-<!--
-**KHLIL2002/KHLIL2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering student at ESPRIT and a passionate full-stack developer with a strong interest in DevOps. I enjoy building scalable applications, designing microservices architectures, and continuously improving my skills in both development and deployment.
 
-Here are some ideas to get you started:
+💻 What am I currently working on?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on full-stack web applications using Angular and Spring Boot, while exploring DevOps practices like Docker, CI/CD, and cloud-based architectures.
+
+🛠️ Tools & Technologies
+Languages: Java, JavaScript, TypeScript
+Frontend: Angular, HTML, CSS, Bootstrap
+Backend: Spring Boot, Symfony
+Databases: MySQL, PostgreSQL
+DevOps & Tools: Docker, Git, Maven, Linux, Postman, Swagger
+Architecture: Microservices, REST APIs
+📫 How to reach me?
+📧 Email: khaliloessouri10@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/khalil-essouri-56b950283/
+💻 GitHub: https://github.com/KHLIL2002
